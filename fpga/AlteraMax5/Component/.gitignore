@@ -1,0 +1,9 @@
+/*.rpt
+/*.done
+/*.summary
+/db
+/simulation
+/incremental_db
+/work
+/rtl_work
+/*.bak
